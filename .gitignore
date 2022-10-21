@@ -1,0 +1,5 @@
+data/*
+output_dir/*
+test/*
+.idea
+__pycache__
